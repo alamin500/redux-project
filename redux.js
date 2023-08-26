@@ -3,7 +3,7 @@ import React from 'react';
 const redux = () => {
     return (
         <div>
-            test
+            test modified
         </div>
     );
 };
